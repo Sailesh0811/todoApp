@@ -1,0 +1,11 @@
+nav {
+    background-color: #2196f3;
+    color: #fff;    
+}
+button {
+    border-color: #fff;
+    color: #fff;
+}
+.dropdown-menu {
+    left: 48%;
+}

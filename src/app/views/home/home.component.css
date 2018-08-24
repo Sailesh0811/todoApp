@@ -1,0 +1,12 @@
+.dropdown {
+    left:0%;
+}
+.rounded-circle {
+    height: 50px;
+    width: 50px;
+    background-color: #ffeb3b;
+}
+.fab {
+    margin-right: 3%;
+    margin-bottom: 1.5%;
+}
